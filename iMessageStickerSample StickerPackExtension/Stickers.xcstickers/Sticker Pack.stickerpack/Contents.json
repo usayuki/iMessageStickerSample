@@ -1,4 +1,12 @@
 {
+  "stickers" : [
+    {
+      "filename" : "sample1.sticker"
+    },
+    {
+      "filename" : "sample2.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
